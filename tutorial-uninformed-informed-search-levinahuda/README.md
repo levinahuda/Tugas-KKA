@@ -3,4 +3,4 @@ Silakan lengkapi tabel berikut dengan nama lengkap dan NRP:
 
 | Nama              | NRP        |
 |-------------------|------------|
-| [Nama Lengkap]    | [NRP]      |
+|Levina Zahrathul Huda|5054251033|
